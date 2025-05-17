@@ -215,7 +215,7 @@
      color: #114c7d;
      font-weight: 400;
      font-size: 28px;
-     background-image: url('../images/fevicon.png');
+     background-image: url('fevicon.png');
      background-repeat: no-repeat;
      padding-left: 55px;
      letter-spacing: -0.5px;
@@ -999,7 +999,7 @@
   background-color: #333;
 } 
 .header-top {
-    background:url(../images/banner1.png);
+    background:url("banner1.png");
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 90px;
@@ -1150,7 +1150,7 @@ position: absolute;
 content: "";
 width: 1269px;
 height: 1232px;
-background: url(../images/croo.png);
+background: url("croo.png");
 top: -55px;
 left: -157%;
 right: 40px;
@@ -1187,7 +1187,7 @@ position: absolute;
 content: "";
 width: 1269px;
 height: 1232px;
-background: url(../images/croo1.png);
+background: url('croo1.png');
 top: -5px;
 left: -80px;
 background-repeat: no-repeat;
@@ -1329,7 +1329,7 @@ content: "";
 right: -23px;
 transform: rotate(5deg);
 width: 46px;
-background: url(../images/4.png);
+background: url("4.png");
 background-repeat: no-repeat;
 height: 146px;
 top: 92px;
@@ -1401,7 +1401,7 @@ padding-bottom: 33px;
      color: #fff;
 }
  .copyright {
- background:url(../images/cop.jpg);
+ background:url("cop.jpg");
 padding: 25px 0px;
 margin-top: 55px;
 background-repeat: no-repeat;
