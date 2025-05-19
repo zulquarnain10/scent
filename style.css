@@ -1145,17 +1145,7 @@ float: right;
 .best_img {
     text-align: center;
 }
-.best_img::after {
-position: absolute;
-content: "";
-width: 1269px;
-height: 1232px;
-background: url("croo.png");
-top: -55px;
-left: -157%;
-right: 40px;
-background-repeat: no-repeat;
-}
+
 .best_img figure {
      margin: 0;
 }
@@ -1182,20 +1172,6 @@ font-size: 20px;
     margin-bottom: 136px;
 }
 
-.croos_rt::after {
-position: absolute;
-content: "";
-width: 1269px;
-height: 1232px;
-background: url('croo1.png');
-top: -5px;
-left: -80px;
-background-repeat: no-repeat;
-}
-
-.best_img.croos_rt {
-    margin-top: 80px;
-}
 
 
 .d_none {
